@@ -5,8 +5,8 @@ In this project, we tackle the backpack price prediction problem presented in th
 
 ## Final Deliverables
 
-* 📄 [Final Paper](./final-paper.pdf)  
-* 📊 [Presentation Slides](./presentation-slides.pdf)
+* 📄 [Final Paper](./INFSCI2160_FinalPaper_DataPacker.pdf)  
+* 📊 [Presentation Slides](./PRE%20(1).pdf)
 
 
 ## Team Member
